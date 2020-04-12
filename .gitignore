@@ -1,0 +1,16 @@
+tags
+.DS_Store
+
+buid
+dist
+.cache
+target
+node_modules
+
+__pycache__
+
+*.db
+*.zip
+*.log
+
+*.html
