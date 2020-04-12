@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e
+
+echo "# Programmingfonts Screenshots"
+echo "I got tired of waiting for the fonts to load.\n\n"
+for image in images/*; do
+    echo "\n\n### \`$image\`\n\n![$image](https://github.com/meain/programmingfonts-screenshots/raw/master/$image)"
+done
