@@ -1,0 +1,10 @@
+#!/bin/sh
+
+for image in images/*; do
+    if [ -f "$image" ] && [ -f "images.bkp/$(basename "$image")" ]; then
+        if compare -metric RMSE "$image" "images.bkp/$(basename "$image")" NULL: 2>&1 | grep -vq '0 (0)'; then
+            echo "$image"
+            git add "$image"
+        fi
+    fi
+done

@@ -1,7 +1,0 @@
-#!/bin/sh
-
-set -e
-
-for image in images/*;do
-    [ -f "$image" ] && [ -f "images.bkp/$(basename "$image")" ] && compare -metric RMSE images/agave.png images.bkp/agave.png NULL:
-done
