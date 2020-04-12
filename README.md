@@ -1,7 +1,19 @@
 # Programmingfonts Screenshots
+
 I got tired of waiting for the fonts to load.
 
 
+## Dependencies
+
+
+- [webpagecontent](https://github.com/meain/webpageshot)
+
+- [webpagedump](https://github.com/meain/webpagedump)
+
+- [imagemagic](https://www.imagemagick.org/)
+
+
+## Images
 
 
 ### `images/agave.png`

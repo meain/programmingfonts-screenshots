@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -e
+
+EXIT=0
+check_installed(){
+    if ! command -v "$1" >/dev/null 2>&1;then
+        echo "$2" not installed && EXIT=1
+    fi
+}
+check_installed "webpageshot" "webpageshot"
+check_installed "webpagedump" "webpagedump"
+check_installed "convert" "imagemagic"
+[ "$EXIT" = 1 ] && exit 1
+
+./scripts/genimages
+./scripts/cropimages
+./scripts/filterimages
+./scripts/genreadme > README.md
