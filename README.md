@@ -16,481 +16,486 @@ I got tired of waiting for the fonts to load.
 ## Images
 
 
-### `images/agave.png`
+### [agave](https://app.programmingfonts.org/#agave)
 
 ![images/agave.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/agave.png)
 
 
-### `images/anka-coder.png`
+### [anka-coder](https://app.programmingfonts.org/#anka-coder)
 
 ![images/anka-coder.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/anka-coder.png)
 
 
-### `images/anonymous-pro.png`
+### [anonymous-pro](https://app.programmingfonts.org/#anonymous-pro)
 
 ![images/anonymous-pro.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/anonymous-pro.png)
 
 
-### `images/apl2741.png`
+### [apl2741](https://app.programmingfonts.org/#apl2741)
 
 ![images/apl2741.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/apl2741.png)
 
 
-### `images/apl385.png`
+### [apl385](https://app.programmingfonts.org/#apl385)
 
 ![images/apl385.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/apl385.png)
 
 
-### `images/average.png`
+### [aurulent](https://app.programmingfonts.org/#aurulent)
+
+![images/aurulent.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/aurulent.png)
+
+
+### [average](https://app.programmingfonts.org/#average)
 
 ![images/average.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/average.png)
 
 
-### `images/b612-mono.png`
+### [b612-mono](https://app.programmingfonts.org/#b612-mono)
 
 ![images/b612-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/b612-mono.png)
 
 
-### `images/bedstead.png`
+### [bedstead](https://app.programmingfonts.org/#bedstead)
 
 ![images/bedstead.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/bedstead.png)
 
 
-### `images/bitstream-vera.png`
+### [bitstream-vera](https://app.programmingfonts.org/#bitstream-vera)
 
 ![images/bitstream-vera.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/bitstream-vera.png)
 
 
-### `images/borg-sans-mono.png`
+### [borg-sans-mono](https://app.programmingfonts.org/#borg-sans-mono)
 
 ![images/borg-sans-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/borg-sans-mono.png)
 
 
-### `images/bpmono.png`
+### [bpmono](https://app.programmingfonts.org/#bpmono)
 
 ![images/bpmono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/bpmono.png)
 
 
-### `images/bront-dejavu.png`
+### [bront-dejavu](https://app.programmingfonts.org/#bront-dejavu)
 
 ![images/bront-dejavu.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/bront-dejavu.png)
 
 
-### `images/bront-ubuntu.png`
+### [bront-ubuntu](https://app.programmingfonts.org/#bront-ubuntu)
 
 ![images/bront-ubuntu.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/bront-ubuntu.png)
 
 
-### `images/camingocode.png`
+### [camingocode](https://app.programmingfonts.org/#camingocode)
 
 ![images/camingocode.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/camingocode.png)
 
 
-### `images/cartograph.png`
+### [cartograph](https://app.programmingfonts.org/#cartograph)
 
 ![images/cartograph.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/cartograph.png)
 
 
-### `images/cascadia-code.png`
+### [cascadia-code](https://app.programmingfonts.org/#cascadia-code)
 
 ![images/cascadia-code.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/cascadia-code.png)
 
 
-### `images/code-new-roman.png`
+### [code-new-roman](https://app.programmingfonts.org/#code-new-roman)
 
 ![images/code-new-roman.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/code-new-roman.png)
 
 
-### `images/comic-shanns.png`
+### [comic-shanns](https://app.programmingfonts.org/#comic-shanns)
 
 ![images/comic-shanns.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/comic-shanns.png)
 
 
-### `images/consolamono.png`
+### [consolamono](https://app.programmingfonts.org/#consolamono)
 
 ![images/consolamono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/consolamono.png)
 
 
-### `images/courier-prime-code.png`
+### [courier-prime-code](https://app.programmingfonts.org/#courier-prime-code)
 
 ![images/courier-prime-code.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/courier-prime-code.png)
 
 
-### `images/courier-prime.png`
+### [courier-prime](https://app.programmingfonts.org/#courier-prime)
 
 ![images/courier-prime.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/courier-prime.png)
 
 
-### `images/cousine.png`
+### [cousine](https://app.programmingfonts.org/#cousine)
 
 ![images/cousine.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/cousine.png)
 
 
-### `images/cozette.png`
+### [cozette](https://app.programmingfonts.org/#cozette)
 
 ![images/cozette.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/cozette.png)
 
 
-### `images/cutive.png`
+### [cutive](https://app.programmingfonts.org/#cutive)
 
 ![images/cutive.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/cutive.png)
 
 
-### `images/d2coding.png`
+### [d2coding](https://app.programmingfonts.org/#d2coding)
 
 ![images/d2coding.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/d2coding.png)
 
 
-### `images/daddytimemono.png`
+### [daddytimemono](https://app.programmingfonts.org/#daddytimemono)
 
 ![images/daddytimemono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/daddytimemono.png)
 
 
-### `images/dejavu.png`
+### [dejavu](https://app.programmingfonts.org/#dejavu)
 
 ![images/dejavu.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/dejavu.png)
 
 
-### `images/droid-sans.png`
+### [droid-sans](https://app.programmingfonts.org/#droid-sans)
 
 ![images/droid-sans.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/droid-sans.png)
 
 
-### `images/edlo.png`
+### [edlo](https://app.programmingfonts.org/#edlo)
 
 ![images/edlo.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/edlo.png)
 
 
-### `images/effects-eighty.png`
+### [effects-eighty](https://app.programmingfonts.org/#effects-eighty)
 
 ![images/effects-eighty.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/effects-eighty.png)
 
 
-### `images/ellograph.png`
+### [ellograph](https://app.programmingfonts.org/#ellograph)
 
 ![images/ellograph.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/ellograph.png)
 
 
-### `images/envy-code-r.png`
+### [envy-code-r](https://app.programmingfonts.org/#envy-code-r)
 
 ![images/envy-code-r.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/envy-code-r.png)
 
 
-### `images/fairfax-hd.png`
+### [fairfax-hd](https://app.programmingfonts.org/#fairfax-hd)
 
 ![images/fairfax-hd.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fairfax-hd.png)
 
 
-### `images/fairfax-serif.png`
+### [fairfax-serif](https://app.programmingfonts.org/#fairfax-serif)
 
 ![images/fairfax-serif.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fairfax-serif.png)
 
 
-### `images/fairfax.png`
+### [fairfax](https://app.programmingfonts.org/#fairfax)
 
 ![images/fairfax.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fairfax.png)
 
 
-### `images/fantasque-sans.png`
+### [fantasque-sans](https://app.programmingfonts.org/#fantasque-sans)
 
 ![images/fantasque-sans.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fantasque-sans.png)
 
 
-### `images/fifteen.png`
+### [fifteen](https://app.programmingfonts.org/#fifteen)
 
 ![images/fifteen.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fifteen.png)
 
 
-### `images/fira.png`
+### [fira](https://app.programmingfonts.org/#fira)
 
 ![images/fira.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fira.png)
 
 
-### `images/firacode.png`
+### [firacode](https://app.programmingfonts.org/#firacode)
 
 ![images/firacode.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/firacode.png)
 
 
-### `images/fixedsys-ligatures.png`
+### [fixedsys-ligatures](https://app.programmingfonts.org/#fixedsys-ligatures)
 
 ![images/fixedsys-ligatures.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fixedsys-ligatures.png)
 
 
-### `images/fixedsys.png`
+### [fixedsys](https://app.programmingfonts.org/#fixedsys)
 
 ![images/fixedsys.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/fixedsys.png)
 
 
-### `images/font3270.png`
+### [font3270](https://app.programmingfonts.org/#font3270)
 
 ![images/font3270.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/font3270.png)
 
 
-### `images/generic.png`
+### [generic](https://app.programmingfonts.org/#generic)
 
 ![images/generic.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/generic.png)
 
 
-### `images/gnu-freefont.png`
+### [gnu-freefont](https://app.programmingfonts.org/#gnu-freefont)
 
 ![images/gnu-freefont.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/gnu-freefont.png)
 
 
-### `images/go-mono.png`
+### [go-mono](https://app.programmingfonts.org/#go-mono)
 
 ![images/go-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/go-mono.png)
 
 
-### `images/hack.png`
+### [hack](https://app.programmingfonts.org/#hack)
 
 ![images/hack.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/hack.png)
 
 
-### `images/hasklig.png`
+### [hasklig](https://app.programmingfonts.org/#hasklig)
 
 ![images/hasklig.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/hasklig.png)
 
 
-### `images/hermit.png`
+### [hermit](https://app.programmingfonts.org/#hermit)
 
 ![images/hermit.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/hermit.png)
 
 
-### `images/ia-writer-mono.png`
+### [ia-writer-mono](https://app.programmingfonts.org/#ia-writer-mono)
 
 ![images/ia-writer-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/ia-writer-mono.png)
 
 
-### `images/inconsolata-g.png`
+### [inconsolata-g](https://app.programmingfonts.org/#inconsolata-g)
 
 ![images/inconsolata-g.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/inconsolata-g.png)
 
 
-### `images/inconsolata.png`
+### [inconsolata](https://app.programmingfonts.org/#inconsolata)
 
 ![images/inconsolata.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/inconsolata.png)
 
 
-### `images/input.png`
+### [input](https://app.programmingfonts.org/#input)
 
 ![images/input.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/input.png)
 
 
-### `images/iosevka.png`
+### [iosevka](https://app.programmingfonts.org/#iosevka)
 
 ![images/iosevka.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/iosevka.png)
 
 
-### `images/jetbrainsmono.png`
+### [jetbrainsmono](https://app.programmingfonts.org/#jetbrainsmono)
 
 ![images/jetbrainsmono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/jetbrainsmono.png)
 
 
-### `images/latin-modern.png`
+### [latin-modern](https://app.programmingfonts.org/#latin-modern)
 
 ![images/latin-modern.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/latin-modern.png)
 
 
-### `images/league.png`
+### [league](https://app.programmingfonts.org/#league)
 
 ![images/league.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/league.png)
 
 
-### `images/lekton.png`
+### [lekton](https://app.programmingfonts.org/#lekton)
 
 ![images/lekton.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/lekton.png)
 
 
-### `images/liberation.png`
+### [liberation](https://app.programmingfonts.org/#liberation)
 
 ![images/liberation.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/liberation.png)
 
 
-### `images/luculent.png`
+### [luculent](https://app.programmingfonts.org/#luculent)
 
 ![images/luculent.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/luculent.png)
 
 
-### `images/luxi.png`
+### [luxi](https://app.programmingfonts.org/#luxi)
 
 ![images/luxi.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/luxi.png)
 
 
-### `images/mensch.png`
+### [mensch](https://app.programmingfonts.org/#mensch)
 
 ![images/mensch.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/mensch.png)
 
 
-### `images/meslo.png`
+### [meslo](https://app.programmingfonts.org/#meslo)
 
 ![images/meslo.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/meslo.png)
 
 
-### `images/monofur.png`
+### [monofur](https://app.programmingfonts.org/#monofur)
 
 ![images/monofur.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/monofur.png)
 
 
-### `images/monoid.png`
+### [monoid](https://app.programmingfonts.org/#monoid)
 
 ![images/monoid.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/monoid.png)
 
 
-### `images/mononoki.png`
+### [mononoki](https://app.programmingfonts.org/#mononoki)
 
 ![images/mononoki.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/mononoki.png)
 
 
-### `images/mplus.png`
+### [mplus](https://app.programmingfonts.org/#mplus)
 
 ![images/mplus.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/mplus.png)
 
 
-### `images/nanum-gothic-coding.png`
+### [nanum-gothic-coding](https://app.programmingfonts.org/#nanum-gothic-coding)
 
 ![images/nanum-gothic-coding.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/nanum-gothic-coding.png)
 
 
-### `images/notcouriersans.png`
+### [notcouriersans](https://app.programmingfonts.org/#notcouriersans)
 
 ![images/notcouriersans.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/notcouriersans.png)
 
 
-### `images/noto.png`
+### [noto](https://app.programmingfonts.org/#noto)
 
 ![images/noto.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/noto.png)
 
 
-### `images/nova.png`
+### [nova](https://app.programmingfonts.org/#nova)
 
 ![images/nova.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/nova.png)
 
 
-### `images/office-code-pro.png`
+### [office-code-pro](https://app.programmingfonts.org/#office-code-pro)
 
 ![images/office-code-pro.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/office-code-pro.png)
 
 
-### `images/opendyslexic.png`
+### [opendyslexic](https://app.programmingfonts.org/#opendyslexic)
 
 ![images/opendyslexic.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/opendyslexic.png)
 
 
-### `images/overpass.png`
+### [overpass](https://app.programmingfonts.org/#overpass)
 
 ![images/overpass.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/overpass.png)
 
 
-### `images/oxygen.png`
+### [oxygen](https://app.programmingfonts.org/#oxygen)
 
 ![images/oxygen.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/oxygen.png)
 
 
-### `images/plex-mono.png`
+### [plex-mono](https://app.programmingfonts.org/#plex-mono)
 
 ![images/plex-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/plex-mono.png)
 
 
-### `images/press-start-2p.png`
+### [press-start-2p](https://app.programmingfonts.org/#press-start-2p)
 
 ![images/press-start-2p.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/press-start-2p.png)
 
 
-### `images/profont.png`
+### [profont](https://app.programmingfonts.org/#profont)
 
 ![images/profont.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/profont.png)
 
 
-### `images/proggy-clean.png`
+### [proggy-clean](https://app.programmingfonts.org/#proggy-clean)
 
 ![images/proggy-clean.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/proggy-clean.png)
 
 
-### `images/proggy-vector.png`
+### [proggy-vector](https://app.programmingfonts.org/#proggy-vector)
 
 ![images/proggy-vector.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/proggy-vector.png)
 
 
-### `images/pt.png`
+### [pt](https://app.programmingfonts.org/#pt)
 
 ![images/pt.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/pt.png)
 
 
-### `images/quinze.png`
+### [quinze](https://app.programmingfonts.org/#quinze)
 
 ![images/quinze.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/quinze.png)
 
 
-### `images/roboto.png`
+### [roboto](https://app.programmingfonts.org/#roboto)
 
 ![images/roboto.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/roboto.png)
 
 
-### `images/sax.png`
+### [sax](https://app.programmingfonts.org/#sax)
 
 ![images/sax.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/sax.png)
 
 
-### `images/share-tech.png`
+### [share-tech](https://app.programmingfonts.org/#share-tech)
 
 ![images/share-tech.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/share-tech.png)
 
 
-### `images/sk-modernist.png`
+### [sk-modernist](https://app.programmingfonts.org/#sk-modernist)
 
 ![images/sk-modernist.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/sk-modernist.png)
 
 
-### `images/sometype-mono.png`
+### [sometype-mono](https://app.programmingfonts.org/#sometype-mono)
 
 ![images/sometype-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/sometype-mono.png)
 
 
-### `images/source-code-pro.png`
+### [source-code-pro](https://app.programmingfonts.org/#source-code-pro)
 
 ![images/source-code-pro.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/source-code-pro.png)
 
 
-### `images/space.png`
+### [space](https://app.programmingfonts.org/#space)
 
 ![images/space.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/space.png)
 
 
-### `images/sudo.png`
+### [sudo](https://app.programmingfonts.org/#sudo)
 
 ![images/sudo.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/sudo.png)
 
 
-### `images/terminus.png`
+### [terminus](https://app.programmingfonts.org/#terminus)
 
 ![images/terminus.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/terminus.png)
 
 
-### `images/tex-gyre-cursor.png`
+### [tex-gyre-cursor](https://app.programmingfonts.org/#tex-gyre-cursor)
 
 ![images/tex-gyre-cursor.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/tex-gyre-cursor.png)
 
 
-### `images/ubuntu.png`
+### [ubuntu](https://app.programmingfonts.org/#ubuntu)
 
 ![images/ubuntu.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/ubuntu.png)
 
 
-### `images/unifont.png`
+### [unifont](https://app.programmingfonts.org/#unifont)
 
 ![images/unifont.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/unifont.png)
 
 
-### `images/verily.png`
+### [verily](https://app.programmingfonts.org/#verily)
 
 ![images/verily.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/verily.png)
 
 
-### `images/victor-mono.png`
+### [victor-mono](https://app.programmingfonts.org/#victor-mono)
 
 ![images/victor-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/victor-mono.png)
 
 
-### `images/vt323.png`
+### [vt323](https://app.programmingfonts.org/#vt323)
 
 ![images/vt323.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/vt323.png)

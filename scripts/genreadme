@@ -10,5 +10,7 @@ echo "- [webpagedump](https://github.com/meain/webpagedump)\n"
 echo "- [imagemagic](https://www.imagemagick.org/)\n"
 echo "\n## Images"
 for image in images/*; do
-    echo "\n\n### \`$image\`\n\n![$image](https://github.com/meain/programmingfonts-screenshots/raw/master/$image)"
+    BN="$(basename "$image" | cut -d'.' -f1)"
+    LINK="[$BN](https://app.programmingfonts.org/#$BN)"
+    echo "\n\n### $LINK\n\n![$image](https://github.com/meain/programmingfonts-screenshots/raw/master/$image)"
 done

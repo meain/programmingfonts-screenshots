@@ -13,7 +13,11 @@ check_installed "webpagedump" "webpagedump"
 check_installed "convert" "imagemagic"
 [ "$EXIT" = 1 ] && exit 1
 
+echo "Fetching.."
 ./scripts/genimages
+echo "Cropping.."
 ./scripts/cropimages
+echo "Filtering.."
 ./scripts/filterimages
+echo "Generating readme.."
 ./scripts/genreadme > README.md
