@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -e
+
+
+for image in images/*;do
+    mogrify -crop 0x500+0+300 "$image"
+done
