@@ -29,11 +29,6 @@ I got tired of waiting for the fonts to load.
 ![images/apl385.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/apl385.png)
 
 
-### `images/aurulent.png`
-
-![images/aurulent.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/aurulent.png)
-
-
 ### `images/average.png`
 
 ![images/average.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/average.png)
