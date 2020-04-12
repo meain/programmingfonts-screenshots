@@ -5,7 +5,7 @@ set -e
 echo "# Programmingfonts Screenshots"
 echo "\nI got tired of waiting for the fonts to load.\n\n"
 echo "## Dependencies\n\n"
-echo "- [webpagecontent](https://github.com/meain/webpageshot)\n"
+echo "- [webpageshot](https://github.com/meain/webpageshot)\n"
 echo "- [webpagedump](https://github.com/meain/webpagedump)\n"
 echo "- [imagemagic](https://www.imagemagick.org/)\n"
 echo "\n## Images"

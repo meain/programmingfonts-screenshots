@@ -6,7 +6,7 @@ I got tired of waiting for the fonts to load.
 ## Dependencies
 
 
-- [webpagecontent](https://github.com/meain/webpageshot)
+- [webpageshot](https://github.com/meain/webpageshot)
 
 - [webpagedump](https://github.com/meain/webpagedump)
 
