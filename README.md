@@ -291,6 +291,11 @@ I got tired of waiting for the fonts to load.
 ![images/jetbrainsmono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/jetbrainsmono.png)
 
 
+### [julia-mono](https://app.programmingfonts.org/#julia-mono)
+
+![images/julia-mono.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/julia-mono.png)
+
+
 ### [latin-modern](https://app.programmingfonts.org/#latin-modern)
 
 ![images/latin-modern.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/latin-modern.png)
@@ -424,6 +429,11 @@ I got tired of waiting for the fonts to load.
 ### [quinze](https://app.programmingfonts.org/#quinze)
 
 ![images/quinze.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/quinze.png)
+
+
+### [recursive-mono-linear](https://app.programmingfonts.org/#recursive-mono-linear)
+
+![images/recursive-mono-linear.png](https://github.com/meain/programmingfonts-screenshots/raw/master/images/recursive-mono-linear.png)
 
 
 ### [roboto](https://app.programmingfonts.org/#roboto)
